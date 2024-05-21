@@ -419,7 +419,7 @@ th:last-child{
 .form-container span{
     font-weight: bold;
     padding: 0 10px;
-    color: #fff;
+    color: #555;
     cursor: pointer;
     width: 100%;
     /* display: inline-block; */
